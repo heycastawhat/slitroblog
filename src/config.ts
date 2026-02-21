@@ -45,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar:
-		"https://github.com/Castawhat/micheal.site-backend/blob/main/PFP-removebg-preview.png?raw=true", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		"/src/assets/images/image.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Josh",
 	bio: "Some guy on the interwebs",
 	links: [
